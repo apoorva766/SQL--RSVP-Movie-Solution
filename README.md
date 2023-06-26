@@ -1,1 +1,1 @@
-# SQL--RSVP-Movie-Solution
+# SQL-RSVP-Movie-Solution
